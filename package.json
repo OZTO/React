@@ -1,0 +1,21 @@
+{
+	"name": "first-react-app",
+	"verson": "0.0.1",
+	"description": "first react app",
+	"keywords": [
+		"react",
+		"reactjs"
+	],
+	"author": "react book group",
+	"license": "MIT"
+}
+{
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/arcthurfirst-react-app.git"
+	},
+	"bugs": {
+		"url": "https://github.com/arcthurfirst-react-app/issues"
+	},
+	"homepage": "https://github.com/arcthurfirst-react-app"
+}
